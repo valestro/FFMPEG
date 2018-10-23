@@ -1,5 +1,5 @@
 # FFMPEG
-ffmpeg video, audio, image, and subtitles editing examples.
+Video, audio, image, and subtitles editing examples.
 
 ## Convert Video to NSTC DVD Format.
 ```console
